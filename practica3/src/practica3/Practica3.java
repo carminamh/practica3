@@ -15,10 +15,10 @@ public class Practica3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-          System.out.println("rojo");
-        System.out.println("verde");
-        System.out.println("rojo");
-        System.out.println("verde");
+          System.out.println("pr1");
+        System.out.println("pr2");
+        System.out.println("pr3");
+        System.out.println("pr33");
     }
     
 }
