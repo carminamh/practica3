@@ -18,7 +18,7 @@ public class Practica3 {
           System.out.println("rojo");
         System.out.println("verde");
         System.out.println("rojo");
-        System.out.println("verde");
+        System.out.println("pr5");
     }
     
 }
