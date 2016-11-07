@@ -19,6 +19,10 @@ public class Practica3 {
         System.out.println("verde");
         System.out.println("rojo");
         System.out.println("verde");
+               System.out.println("rojo");
+        System.out.println("verde");
+        System.out.println("rojo");
+        System.out.println("verde");
     }
     
 }
